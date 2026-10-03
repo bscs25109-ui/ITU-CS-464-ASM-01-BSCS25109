@@ -41,10 +41,9 @@ Free Fire is mainly about **Challenge**, with some **Discovery** and **Expressio
 
 ## Game 2 · Survivor Island
 
-- **Store link:** [Paste the Google Play link for the exact Survivor Island game you played]
+- **Store link:** https://play.google.com/store/apps/details?id=com.jlyt.SurvivorIsland&hl=en
 - **Genre:** Survival / Simulation / Idle
-- **I played:** [Write your actual play time and how far you got]
-
+- **I played:** 30 minutes for this assignment. I have also played Survivor Island before.
 <p>
   <img src="Docs/game2/1.jpeg" width="240">
   <img src="Docs/game2/2.jpeg" width="240">
