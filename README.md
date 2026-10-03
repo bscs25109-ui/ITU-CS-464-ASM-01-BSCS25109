@@ -82,8 +82,7 @@ Survivor Island mainly uses **Challenge**, **Discovery** and **Submission**. Mos
 
 | Level | Screenshot | Its idea | Wayfinding tool |
 |---|---|---|---|
-| Level01 | <img src="Docs/levels/level01.png" width="320"> | **Spatial introduction:** two connected rooms that teach movement first, then add simple static and moving obstacles. | Bright doorways, a visible goal marker and a clear corridor between rooms. |
-| Level02 | <img src="Docs/levels/level02.png" width="320"> | **Parkour obstacle course:** start area, moving obstacles, narrow bridge, ramp and a gap jump before the finish. | Yellow rails/blocks, the straight route layout and the finish flag. |
-| Level03 | <img src="Docs/levels/level03.png" width="320"> | **Escape-room style navigation:** connected rooms, side rooms, a main puzzle room and a final chamber leading to the exit. | Colored path lines, bright door frames and a glowing exit goal. |
-| Level04 | <img src="Docs/levels/level04.png" width="320"> | **[Add after building / provide Level04 reference]** | **[Add wayfinding tool]** |
-| Level05 | <img src="Docs/levels/level05.png" width="320"> | **Minecraft-inspired parkour:** cave platforms, narrow bridge, stairs/ramp and a final gap jump. | Torches, bright lava contrast and a clear gold goal arch/flag. |
+| Level01 | <img src="Docs/levels/1.png" width="320"> | **Fall Guys style obstacle course to reach the finish. | Leading lines the bridge, rails, ramp edges, and course layout visually direct the player forward toward the goal. |
+| Level02 | <img src="Docs/levels/2.png" width="320"> | **Smash Hit style level where the player moves forward through enclosed rooms and obstacles. | Framing   walls, doorways, and narrow openings frame the route and show the player where to move next. |
+| Level03 | <img src="Docs/levels/3.png" width="320"> | **Minecraft style parkour where the player jumps across obstacles to reach the house. | Landmarks  the house works as a clear visual destination, helping the player know where to go.|
+| Level04 | <img src="Docs/levels/4.png" width="320"> | **Escape room style navigation puzzle where the player moves through connected rooms and side paths to reach the exit.** | **Breadcrumbs   colored lights/arrows along the route guide the player from room to room toward the final exit.** |
