@@ -34,8 +34,8 @@
 Free Fire is mainly about **Challenge**, with some **Discovery** and **Expression**. The challenge comes from gunfights, the safe zone and resource management. Discovery comes from learning the map, while expression appears in choices such as how Gloo Walls are used.
 
 **Player types:**  
-- **Primary: Killer** — PvP combat and eliminating opponents are a major part of the match.
-- **Secondary: Achiever** — players also manage weapons, health, positioning and the safe zone.
+- **Primary: Killer**  PvP combat and eliminating opponents are a major part of the match.
+- **Secondary: Achiever**  players also manage weapons, health, positioning and the safe zone.
 
 ---
 
@@ -73,8 +73,8 @@ Free Fire is mainly about **Challenge**, with some **Discovery** and **Expressio
 Survivor Island mainly uses **Challenge**, **Discovery** and **Submission**. Most of the challenge comes from workers, food, resources and defenses. Exploration adds discovery, while the idle system supports short sessions and returning later.
 
 **Player types:**  
-- **Primary: Achiever** — most of the game is about building, upgrading and improving the settlement.
-- **Secondary: Explorer** — exploration is used to find new areas, survivors and resources.
+- **Primary: Achiever**  most of the game is about building, upgrading and improving the settlement.
+- **Secondary: Explorer**  exploration is used to find new areas, survivors and resources.
 
 ---
 
@@ -82,7 +82,7 @@ Survivor Island mainly uses **Challenge**, **Discovery** and **Submission**. Mos
 
 | Level | Screenshot | Its idea | Wayfinding tool |
 |---|---|---|---|
-| Level01 | <img src="Docs/levels/1.png" width="320"> | **Fall Guys style obstacle course to reach the finish. | Leading lines the bridge, rails, ramp edges, and course layout visually direct the player forward toward the goal. |
-| Level02 | <img src="Docs/levels/2.png" width="320"> | **Smash Hit style level where the player moves forward through enclosed rooms and obstacles. | Framing   walls, doorways, and narrow openings frame the route and show the player where to move next. |
-| Level03 | <img src="Docs/levels/3.png" width="320"> | **Minecraft style parkour where the player jumps across obstacles to reach the house. | Landmarks  the house works as a clear visual destination, helping the player know where to go.|
-| Level04 | <img src="Docs/levels/4.png" width="320"> | **Escape room style navigation puzzle where the player moves through connected rooms and side paths to reach the exit.** | **Breadcrumbs   colored lights/arrows along the route guide the player from room to room toward the final exit.** |
+| Level01 | <img src="Docs/levels/1.png" width="320"> | Fall Guys style obstacle course to reach the finish. | Leading lines the bridge, rails, ramp edges, and course layout visually direct the player forward toward the goal. |
+| Level02 | <img src="Docs/levels/2.png" width="320"> | Smash Hit style level where the player moves forward through enclosed rooms and obstacles. | Framing   walls, doorways, and narrow openings frame the route and show the player where to move next. |
+| Level03 | <img src="Docs/levels/3.png" width="320"> | Minecraft style parkour where the player jumps across obstacles to reach the house. | Landmarks  the house works as a clear visual destination, helping the player know where to go.|
+| Level04 | <img src="Docs/levels/4.png" width="320"> | Escape room style navigation puzzle where the player moves through connected rooms and side paths to reach the exit.** | **Breadcrumbs   colored lights/arrows along the route guide the player from room to room toward the final exit. |
